@@ -18,5 +18,5 @@
 ## 形态学处理
 > 闭运算：先腐蚀后膨胀
 
-<img src="SrcImg/Color.jpg" width='300'> <img src="DstImg/1_HSV.jpg" width='300'> <img src="DstImg/1_C1C2C3.jpg" width='300'><br> 
-<img src="SrcImg/zy-3-wd.jpg" width='300'> <img src="DstImg/2_HSV.jpg" width='300'> <img src="DstImg/2_C1C2C3.jpg" width='300'> 
+<img src="SrcImg/Color.jpg" width='200'> <img src="DstImg/1_HSV.jpg" width='200'> <img src="DstImg/1_C1C2C3.jpg" width='200'><br> 
+<img src="SrcImg/zy-3-wd.jpg" width='200'> <img src="DstImg/2_HSV.jpg" width='200'> <img src="DstImg/2_C1C2C3.jpg" width='200'> 
