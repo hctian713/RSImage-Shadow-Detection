@@ -15,5 +15,8 @@
 
 > 通过对C3分量图采用阈值分割的方法得到初步阴影区域。但原始影像中的偏蓝色地物在C3分量中就具有很高的像素值，必须将这些区域从阴影区域中去除。为此，需要将C3分量图和B分量图相结合，采用双阈值来进行阴影检测。只有在C3分量中高于某个阈值，并在B 分量中低于某个阈值的区域，才被检测成为阴影区域。
 
+## 形态学处理
+> 闭运算：先腐蚀后膨胀
+
 <img src="SrcImg/Color.jpg" width='300'> <img src="DstImg/1_HSV.jpg" width='300'> <img src="DstImg/1_C1C2C3.jpg" width='300'><br> 
 <img src="SrcImg/zy-3-wd.jpg" width='300'> <img src="DstImg/2_HSV.jpg" width='300'> <img src="DstImg/2_C1C2C3.jpg" width='300'> 
